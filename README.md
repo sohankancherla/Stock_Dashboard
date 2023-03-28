@@ -3,7 +3,7 @@ This program is a stock dashboard that helps you get real-time information about
 
 # How to run
 - replace fredapi with your own key (https://fred.stlouisfed.org/docs/api/fred/)
-- cmd: python stock_dashboard.py
+- cmd: streamlit run stock_dashboard.py
 
 # Upcoming Features
 - Data Visualizations: The Dashboard will include a multitude of graphs and visualizations to help users understand the data visually
