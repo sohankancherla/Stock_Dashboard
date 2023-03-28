@@ -9,7 +9,7 @@ This program is a stock dashboard that helps you get real-time information about
 - Data Visualizations: The Dashboard will include a multitude of graphs and visualizations to help users understand the data visually
 - Insider Trading Detector: The main goal of this program is to identify which companies and when insider trading happens
 
-# APIs and 
+# APIs and Libraries
 - Fred API to get the 3 month treasury rate
 - yfinance to get realtime stock data
 - strealit to build the dashboard
